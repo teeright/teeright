@@ -13,12 +13,12 @@ I am a fullstack web developer from Vancouver, Canada.
 <br>
 <br>
 
-<!--
-## Blog posts
+<!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
  
-<!-- BLOG-POST-LIST:END -->a
+<!-- BLOG-POST-LIST:END -->
 
+<!--
 **teeright/teeright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
