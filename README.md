@@ -13,6 +13,11 @@ I am a fullstack web developer from Vancouver, Canada.
 <br>
 <br>
 
+
+<!-- # daily.dev card
+<a href="https://app.daily.dev/teeright"><img src="https://api.daily.dev/devcards/.png?r=1fr" width="300" alt="Teeright's Dev Card"/></a>
+-->
+
 <!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
  
