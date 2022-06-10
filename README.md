@@ -18,10 +18,8 @@ I am a fullstack web developer from Vancouver, Canada.
 
 </td><td>
 
-# daily.dev card
-<a href="https://app.daily.dev/teewright"><img src="https://api.daily.dev/devcards/f431a96ac4b04d15bf77fea598d53137.png?r=4gc" width="400" alt="Teeright's Dev Card"/></a>
+<a href="https://app.daily.dev/teewright"><img src="https://api.daily.dev/devcards/f431a96ac4b04d15bf77fea598d53137.png?r=4gc" width="300" alt="Teeright's Dev Card"/></a>
 </td></tr></table>
-
 
 <!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
