@@ -1,4 +1,7 @@
-### Hola 👋
+
+<table><tr><td>
+
+### 👋 Hello!
 I am a fullstack web developer from Vancouver, Canada.
 
 - 🔭 I’m currently working on multiple frontend and backend projects using Php, Wordpress, Perl and Mysql.
@@ -13,10 +16,12 @@ I am a fullstack web developer from Vancouver, Canada.
 <br>
 <br>
 
+</td><td>
 
-<!-- # daily.dev card
-<a href="https://app.daily.dev/teeright"><img src="https://api.daily.dev/devcards/.png?r=1fr" width="300" alt="Teeright's Dev Card"/></a>
--->
+# daily.dev card
+<a href="https://app.daily.dev/teewright"><img src="https://api.daily.dev/devcards/f431a96ac4b04d15bf77fea598d53137.png?r=4gc" width="400" alt="Teeright's Dev Card"/></a>
+</td></tr></table>
+
 
 <!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
